@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "21548873161",
+    "project_id": "classy-81a2c",
+    "storage_bucket": "classy-81a2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21548873161:android:3cf8840577ff361c9ba418",
+        "android_client_info": {
+          "package_name": "com.example.classy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLDVTqnrxCbAzVWnCcowopwsvBjJ7Emgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
